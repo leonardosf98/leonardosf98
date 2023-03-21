@@ -4,5 +4,5 @@ Em busca de ser um Desenvolvedor BackEnd Júnior, acredito que a tecnologia ajud
 
 📚 Atualmente estudando Java e JavaScript!
 <div align="center">
-<img width="400cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosf98&theme=midnight-purple&show_icons=true&hide_title=true">
+https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosf98&theme=midnight-purple&show_icons=true&hide_title=true"
 </div>
