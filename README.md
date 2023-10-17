@@ -5,7 +5,9 @@
 
 - Em transição de carreira, tenho o sonho de juntar saúde e tecnologia no meu trabalho e espero faze-lo em breve!
 
-📚 Atualmente estudando React, Java e JavaScript!
+📚 Atualmente estudando React, Java e JavaScript além das aulas de lógica de programação e padrões de páginas de internet pela faculdade.
+
+- Link do hackerrank: https://www.hackerrank.com/profile/leonardo_f98
 
 <div align="center">
   
