@@ -7,7 +7,7 @@
 
 📚 Atualmente estudando React, Java e JavaScript além das aulas de lógica de programação e padrões de páginas de internet pela faculdade.
 
-- Link do hackerrank: https://www.hackerrank.com/profile/leonardo_f98
+- Link do meu perfil no HackerRank: https://www.hackerrank.com/profile/leonardo_f98
 
 <div align="center">
   
