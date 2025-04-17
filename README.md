@@ -1,16 +1,42 @@
 # Leonardo Souza
 
-- **Formado em nutrição** pela **Universidade Federal de São Paulo**, onde passei a ter contato com pessoas de diversas realidades diferentes da minha com todo tipo de problema, o que me levou a desenvolver minha escuta e entender como eu poderia ajuda-los.
-- Sempre me falaram para fazer faculdade de "computador" e eu ignorei esse conselho por alguns anos, até que a pandemia chegou e eu pensei, porque não? Tive meu primeiro contato com a Alura e daí em diante aquele foguinho da tecnologia acendeu novamente e eu virei **graduando em sistemas para internet na FATEC Rubens Lara!**. Atualmente sou monitor de lógica de programação e algoritmos.
+👨‍💻 Desenvolvedor Full Stack na [FCamara](https://www.fcamara.com.br/), atuando no desenvolvimento de **aplicações que integram Inteligência Artificial**, com foco em soluções inovadoras e personalizadas.
 
-- Em transição de carreira, tenho o sonho de juntar saúde e tecnologia no meu trabalho e espero faze-lo em breve!
+🎓 Formado em **Nutrição pela Universidade Federal de São Paulo**, onde desenvolvi uma escuta ativa e empatia ao lidar com pessoas de diferentes realidades — habilidades que hoje aplico ao criar produtos centrados no usuário.
 
-📚 Atualmente estudando React, Java e JavaScript além das aulas da faculdade. 
+📚 Atualmente, sou **graduando em Sistemas para Internet na FATEC Rubens Lara**, onde também atuo como **monitor de Lógica de Programação e Algoritmos**.
 
-- Link do meu perfil no HackerRank: https://www.hackerrank.com/profile/leonardo_f98
+🚀 Minha transição de carreira começou durante a pandemia, quando decidi mergulhar de cabeça no mundo da tecnologia. Desde então, tenho me aprofundado em **Python**, **JavaScript**, **Svelte** e **React**, com foco em aplicações modernas e integração com IA.
+
+💡 Tenho como objetivo construir soluções inovadoras em projetos que façam a diferença na vida das pessoas.
+
+---
+
+## 🧠 Skills & Tecnologias
+
+- **Frontend:** React, Svelte, TypeScript
+- **Backend:** Python (FastAPI), Java
+- **Banco de Dados:** SQL, PostgreSQL
+- **IA & Dados:** RAG (Retrieval-Augmented Generation), integração com modelos OpenAI, OpenWebUI
+- **Outros:** Git, GitHub, Metodologias Ágeis, Docker
+
+---
+
+## 🌱 Em constante aprendizado
+
+- Aprimorando conhecimentos em **React**, **Python** e **Integração com IA**
+- Explorando arquitetura de software, TDD e boas práticas de desenvolvimento
+- Desenvolvendo projetos pessoais e acadêmicos voltados à união entre **tecnologia e saúde**
+
+---
+
+## 🧩 Links úteis
+
+- 🔗 [Perfil no Linkedin](https://www.linkedin.com/in/leonardo-sf98/)
+- 📫 Me chame para conversar sobre saúde, tecnologia ou IA!
 
 <div align="center">
   
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosf98&theme=midnight-purple&show_icons=true&hide_title=true)
-  
+
 </div>
