@@ -6,7 +6,7 @@
 
 📚 Atualmente, sou **graduando em Sistemas para Internet na FATEC Rubens Lara**, onde também atuo como **monitor de Lógica de Programação e Algoritmos**.
 
-🚀 Minha transição de carreira começou durante a pandemia, quando decidi mergulhar de cabeça no mundo da tecnologia. Desde então, tenho me aprofundado em **Python**, **JavaScript**, **Svelte** e **React**, com foco em aplicações modernas e integração com IA.
+🚀 Minha transição de carreira começou durante a pandemia, quando decidi mergulhar de cabeça no mundo da tecnologia. Desde então, tenho me aprofundado em **Python**, **JavaScript**, **Vue** e **React**, com foco em aplicações modernas e integração com IA.
 
 💡 Tenho como objetivo construir soluções inovadoras em projetos que façam a diferença na vida das pessoas.
 
@@ -14,8 +14,8 @@
 
 ## 🧠 Skills & Tecnologias
 
-- **Frontend:** React, Svelte, TypeScript
-- **Backend:** Python (FastAPI), Java
+- **Frontend:** React, Vue.js
+- **Backend:** Python (FastAPI), Java, Node.js
 - **Banco de Dados:** SQL, PostgreSQL
 - **IA & Dados:** RAG (Retrieval-Augmented Generation), integração com modelos OpenAI, OpenWebUI
 - **Outros:** Git, GitHub, Metodologias Ágeis, Docker
@@ -24,7 +24,7 @@
 
 ## 🌱 Em constante aprendizado
 
-- Aprimorando conhecimentos em **React**, **Python** e **Integração com IA**
+- Aprimorando conhecimentos em **Java**, **Python** e **Vue**
 - Explorando arquitetura de software, TDD e boas práticas de desenvolvimento
 - Desenvolvendo projetos pessoais e acadêmicos voltados à união entre **tecnologia e saúde**
 
