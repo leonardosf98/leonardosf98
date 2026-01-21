@@ -34,6 +34,7 @@ Desenvolvo aplicações modernas com **Vue.js, Python (FastAPI) e integração c
 * 🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-sf98/)
 * 📫 Aberto para conversar sobre **tecnologia, IA ou saúde**
 
-<div align="center">
-[My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosf98&theme=midnight-purple&show_icons=true&hide_title=true)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosf98&theme=midnight-purple&show_icons=true&hide_title=true" />
+</p>
+
